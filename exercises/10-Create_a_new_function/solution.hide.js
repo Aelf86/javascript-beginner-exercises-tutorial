@@ -1,4 +1,4 @@
-function shortIntroduction(name, profession, age) {
+function shortIntroduction(name,profession,age) {
     // Complete this function's body and arguments
     return "Hello! my name is " + name + ", my profession is " + profession + ". I am " + age + " years old."
 }
